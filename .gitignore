@@ -1,0 +1,27 @@
+# build output
+build/
+output/
+
+# object files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.a
+
+# IDE files
+*.uvprojx
+*.uvoptx
+*.eww
+*.ewp
+*.ewd
+.settings/
+.project
+.cproject
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
